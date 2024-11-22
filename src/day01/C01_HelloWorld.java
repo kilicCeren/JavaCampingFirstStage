@@ -9,7 +9,7 @@ public class C01_HelloWorld {
         // ve bu yazilari kod gibi calistirmaz
 
 
-        System.out.println("Hello World");
+        System.out.println("Hello World!");
 
         System.out.println("Java'nin ilk gununden merhaba...");
 
@@ -18,6 +18,8 @@ public class C01_HelloWorld {
         arasındaki kısım da
         yorum paragrafidir
          */
+
+
     }
 
 }
