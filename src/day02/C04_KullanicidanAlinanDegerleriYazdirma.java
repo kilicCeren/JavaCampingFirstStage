@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class C04_KullanicidanAlinanDegerleriYazdirma {
     public static void main(String[] args) {
 
-        //Soru- 5 Kullanicidan  isimini,soyismini ve yasini alip
+        //Soru: Kullanicidan  isimini,soyismini ve yasini alip
         //      asagidaki formatta yazdiriniz
 
         //      girilen bilgiler : J Doe  44
