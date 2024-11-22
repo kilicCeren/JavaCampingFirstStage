@@ -6,7 +6,7 @@ public class C01_PrimitifDataTürleri {
         boolean gozlukluMu = true;
         boolean emekliMi = false;
         // boolean saliMi = "true";
-        // boolean evliMi = 'false'; // Too many characters in character literal
+        // boolean evliMi = 'false'; //  Too many characters in character literal
         // boolean dogruMu = 1;
 
         char chr1 = 'a';

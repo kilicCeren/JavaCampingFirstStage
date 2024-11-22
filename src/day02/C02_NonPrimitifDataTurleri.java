@@ -15,9 +15,9 @@ public class C02_NonPrimitifDataTurleri {
         double dbl = 34.7;
 
 
-        System.out.println(metin1.toUpperCase()); // JAVA CANDIR.
+        System.out.println(metin1.toUpperCase()); //  JAVA CANDIR.
 
-        System.out.println(metin1.toLowerCase()); // java candir.
+        System.out.println(metin1.toLowerCase()); //  java candir.
 
         System.out.println(metin1.charAt(0)); // J
         System.out.println(metin1.charAt(2)); // v
