@@ -7,10 +7,10 @@ public class C03_ExplicitNarrowing {
             daha kapsamli bir degeri, daha kucuk kapsamli bir variable'a atama yapiyoruz
 
             deger varable'in sinirlari icinde ise
-            explicit narrowing yaptigimizda ayni degere sahip olur
+            explicit narrowing yaptigimizda ayni degere sahip olur.
 
             ANCAKKK eger deger variable'in sinirlarindan buyuk ise
-            bu durumda deger farkli bir sonuca donusebilir
+            bu durumda deger farkli bir sonuca donusebilir.
          */
 
         int sayi1 = 43;
