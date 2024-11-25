@@ -30,7 +30,7 @@ public class C02_AutoWidening_ExplictNarrowing {
         double dbl = 4.5;
 
         // Compile time'da Java degerlerle ilgilenmez
-        // data turlerini kontrol eder
+        // data turlerini kontrol eder.
 
         byt = (byte)shrt;
         byt = (byte)sayiInt;
