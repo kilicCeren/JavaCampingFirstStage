@@ -11,7 +11,7 @@ public class C01_DataCasting {
             3- Sayisal data turlerine gelince
                dar kapsamli degeri, genis kapsamli variable'a atamak istersek
                Java bu islemi otomatik olarak yapar
-               bu isleme "AUTO WIDENING" (otomatik genisletme) denir
+               bu isleme "AUTO WIDENING" (otomatik genisletme) denir.
          */
 
 
