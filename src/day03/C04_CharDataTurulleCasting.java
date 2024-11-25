@@ -6,13 +6,13 @@ public class C04_CharDataTurulleCasting {
          /*
             char data turu ozel bir data turudur
             Matematiksel islemlerde kullanildiginda
-            ASCII table'daki degerleri ile isleme girerler
+            ASCII table'daki degerleri ile isleme girerler.
 
             char data turundeki degerler ve variable'lar
-            < , > gibi matematiksel islemlerde de kullanilabilir
+            < , > gibi matematiksel islemlerde de kullanilabilir.
 
             bu durumda Java ascii degerlerine bakar
-            biz ise bunu once  mi veya sonra mi diye dusunebiliriz
+            biz ise bunu once  mi veya sonra mi diye dusunebiliriz.
          */
 
         String str1 = "Java";
