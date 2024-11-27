@@ -7,7 +7,7 @@ public class C06_FaydaliWrapperClassMethodlari {
 
         // belirli formatta verilen iki fiyatin toplamini yazdirin
 
-        System.out.println(fiyat1 + fiyat2); // 21.2815.46
+        System.out.println(fiyat1 + fiyat2); //  21.2815.46
 
         double fyt1 = Double.parseDouble(fiyat1);
         double fyt2 = Double.parseDouble(fiyat2);
