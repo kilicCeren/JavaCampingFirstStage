@@ -44,7 +44,7 @@ public class C05_WrapperClasses {
 
         // short sayi8 = sayi4; // short <== Integer   Inconvertible types; cannot cast 'Integer' to 'short'
 
-    //deneme
+
 
     }
 }
