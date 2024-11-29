@@ -49,6 +49,6 @@ public class C01_PrimitifDataTürleri {
         System.out.println(dbl1 / dbl2); // 3.3333333333333335
 
         // UYARI : double sayilari ustel olarak tuttugu icin
-        //         virgulden sonra ilerleyen basamaklarda hata olabilir
+        //          virgulden sonra ilerleyen basamaklarda hata olabilir
     }
 }
